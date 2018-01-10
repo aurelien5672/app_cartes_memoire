@@ -1,0 +1,12 @@
+body{
+	background-color: #b2ebf2;
+}
+.block{
+	font-size: 20;
+}
+.btn1{
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 10px;
+	padding-bottom: 10px
+}
